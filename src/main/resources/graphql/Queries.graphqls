@@ -1,0 +1,3 @@
+type Query{
+    getStudentByDateNaissance(dateNaissane :String) : [Student]
+}

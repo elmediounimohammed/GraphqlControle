@@ -1,0 +1,5 @@
+input StudentInput{
+    name:String
+    email:String
+    dateNaissance:String
+}
